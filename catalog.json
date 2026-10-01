@@ -121,6 +121,17 @@
       "sha256": "3b5ab6c5a9467988ae7377934aeeae4df8d9d82fdee2c8f13d5d22ac8f0e2b28",
       "icon": "icons/file-manager-plus.png?v=2103063",
       "description": ""
+    },
+    {
+      "id": "equalizer",
+      "name": "Equalizer",
+      "packageName": "com.jazibkhan.equalizer",
+      "versionName": "6.1.0",
+      "versionCode": 202,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/equalizer-6.1.0.apk",
+      "sha256": "f87ccef1faccb15e2839d4ac2da51fc8a7bcd8a335198953e630aae03dbfac4f",
+      "icon": "icons/equalizer.png?v=202",
+      "description": "Equalizer, bass booster and volume booster."
     }
   ]
 }
