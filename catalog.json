@@ -165,6 +165,17 @@
       "sha256": "bd367a7e7989ac5362ddfa13276fceb98496059e2fc2892cce2cb87ad5da730d",
       "icon": "icons/vradio.png?v=90208010",
       "description": "Online radio."
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "packageName": "com.flyme.auto.weather",
+      "versionName": "26.01.27.15",
+      "versionCode": 26012715,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/weather-26.01.27.15.apk",
+      "sha256": "66a20b4eb252536fdf9320ccd63e6e3fe24bf10a2c421ec66a51292d84b6d512",
+      "icon": "icons/weather.webp?v=26012715",
+      "description": "Weather widget by Dmity."
     }
   ]
 }
