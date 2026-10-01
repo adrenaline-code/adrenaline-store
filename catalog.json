@@ -154,6 +154,17 @@
       "sha256": "a6f1f93d7701adafe6a8f483aaf3e95115957674225201e340a0f00e4998250b",
       "icon": "icons/sunray-toolkit.png?v=107",
       "description": ""
+    },
+    {
+      "id": "vradio",
+      "name": "VRadio",
+      "packageName": "com.ilv.vradio",
+      "versionName": "2.8.10",
+      "versionCode": 90208010,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/vradio-2.8.10.apk",
+      "sha256": "bd367a7e7989ac5362ddfa13276fceb98496059e2fc2892cce2cb87ad5da730d",
+      "icon": "icons/vradio.png?v=90208010",
+      "description": "Online radio."
     }
   ]
 }
