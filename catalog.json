@@ -132,6 +132,17 @@
       "sha256": "f87ccef1faccb15e2839d4ac2da51fc8a7bcd8a335198953e630aae03dbfac4f",
       "icon": "icons/equalizer.png?v=202",
       "description": "Equalizer, bass booster and volume booster."
+    },
+    {
+      "id": "algerian-radio",
+      "name": "Algerian Radio",
+      "packageName": "dz.radioalgerie.algerian_radio",
+      "versionName": "1.0.4",
+      "versionCode": 79,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/algerian-radio-1.0.4.apk",
+      "sha256": "8314f6bb788787b85f93d29a7a424d75203758c05a5631af317d8d78e0b8c49b",
+      "icon": "icons/algerian-radio.png?v=79",
+      "description": ""
     }
   ]
 }
