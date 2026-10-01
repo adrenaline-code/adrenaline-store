@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Adrenaline Diag</title>
+<link rel="icon" href="icons/adrenaline-diag.png">
+<style>
+  :root { --bg:#000; --card:#121318; --stroke:#26282F; --text:#F2F2F4; --muted:#8C8F99; --accent:#D41022; --accent2:#F0303F; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; padding: 48px 16px; }
+  header { display:flex; flex-wrap:wrap; gap:8px 24px; align-items:center; }
+  header .logo { width:min(360px,100%); height:auto; }
+  .sub { color:var(--muted); margin:0; }
+  .line { height:2px; margin:28px 0; background:linear-gradient(90deg,var(--accent),var(--accent2),transparent); }
+  .dl { display:inline-block; padding:14px 26px; border-radius:12px; color:#fff; font-weight:700; letter-spacing:.06em;
+        text-decoration:none; background:linear-gradient(90deg,var(--accent),var(--accent2)); }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:14px; margin-top:28px; }
+  .app { background:var(--card); border:1px solid var(--stroke); border-radius:16px; padding:16px; text-align:center; }
+  .app img { width:56px; height:56px; border-radius:12px; background:var(--stroke); }
+  .app b { display:block; margin-top:8px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .app span { color:var(--muted); font-size:13px; }
+  footer { margin-top:40px; color:var(--muted); font-size:13px; text-align:center; letter-spacing:.04em; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img class="logo" src="logo.png" alt="Adrenaline Diagnostique">
+    <p class="sub">App store for Android head units</p>
+  </header>
+  <div class="line"></div>
+  <a class="dl" href="https://github.com/adrenaline-code/adrenaline-store/releases/latest/download/AdrenalineDiag.apk">DOWNLOAD THE APP</a>
+  <div class="grid" id="apps"></div>
+  <footer>Made by Adrenaline Diag · © <span id="year">2026</span> Adrenaline Diag. All rights reserved.</footer>
+</main>
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  fetch('catalog.json', { cache: 'no-store' })
+    .then(r => r.json())
+    .then(c => {
+      const grid = document.getElementById('apps');
+      for (const a of c.apps) {
+        const el = document.createElement('div');
+        el.className = 'app';
+        const img = document.createElement('img');
+        if (a.icon) img.src = a.icon;
+        img.alt = '';
+        const name = document.createElement('b');
+        name.textContent = a.name;
+        const ver = document.createElement('span');
+        ver.textContent = a.versionName ? 'v' + a.versionName : '';
+        el.append(img, name, ver);
+        grid.append(el);
+      }
+    })
+    .catch(() => {});
+</script>
+</body>
+</html>
