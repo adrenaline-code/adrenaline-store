@@ -143,6 +143,17 @@
       "sha256": "8314f6bb788787b85f93d29a7a424d75203758c05a5631af317d8d78e0b8c49b",
       "icon": "icons/algerian-radio.png?v=79",
       "description": ""
+    },
+    {
+      "id": "sunray-toolkit",
+      "name": "Sunray Toolkit",
+      "packageName": "com.dmkcv.sunray",
+      "versionName": "1.2",
+      "versionCode": 107,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/sunray-toolkit-1.2.apk",
+      "sha256": "a6f1f93d7701adafe6a8f483aaf3e95115957674225201e340a0f00e4998250b",
+      "icon": "icons/sunray-toolkit.png?v=107",
+      "description": ""
     }
   ]
 }
