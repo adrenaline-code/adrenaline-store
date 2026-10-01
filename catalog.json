@@ -22,6 +22,17 @@
                      "sha256":  "bd12cfff2b0dbd2713c373b304f279e93e17b5ff951bda3abe09cf5b57342935",
                      "icon":  "icons/quran.png?v=3610",
                      "description":  "Quran for Android - read and listen to the Holy Quran. Open source."
+                 },
+                 {
+                     "id":  "microg",
+                     "name":  "microG Services",
+                     "packageName":  "app.revanced.android.gms",
+                     "versionName":  "6.1.1",
+                     "versionCode":  255034001,
+                     "apkUrl":  "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/microg-6.1.1.apk",
+                     "sha256":  "67df2277b88af07df21bad9bb512c510dbd898dbed43ad786dba9c4da3b8e114",
+                     "icon":  "icons/microg.webp?v=255034001",
+                     "description":  "Open-source replacement for Google services (microG)."
                  }
              ]
 }
