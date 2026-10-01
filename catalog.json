@@ -99,6 +99,17 @@
       "sha256": "fc8b763b15524062d10b052e99f6e1212a8273fbcfa9957912934bf406442317",
       "icon": "icons/ayah.png?v=5370",
       "description": ""
+    },
+    {
+      "id": "drivemode",
+      "name": "DriveMode",
+      "packageName": "com.newfelbougueroua.drivemode",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/drivemode-1.0.apk",
+      "sha256": "3db828807212b380cc243fe4c49c56446cfe3d2ca8eefa88b37a31d2c1dccb2f",
+      "icon": "icons/drivemode.webp?v=1",
+      "description": "By naoufel203 (Telegram)."
     }
   ]
 }
