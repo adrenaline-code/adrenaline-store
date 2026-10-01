@@ -66,6 +66,17 @@
       "sha256": "d244996dacb177227f93a9d6e4bbde14bbd733e3daea487b20a6a93672f50469",
       "icon": null,
       "description": "Installs APK files on Flyme Auto head units. Needed by this store to install apps."
+    },
+    {
+      "id": "aures-eyes",
+      "name": "Aures Eyes",
+      "packageName": "com.bilang042.aureseyes",
+      "versionName": "1.1",
+      "versionCode": 2,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/aures-eyes-1.1.apk",
+      "sha256": "1d0a61ce2b0e2b562cc8c3c5a9861cc569d2d15124d50b2cf64c18185f89b02d",
+      "icon": "icons/aures-eyes.png?v=2",
+      "description": ""
     }
   ]
 }
