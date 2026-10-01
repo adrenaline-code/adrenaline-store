@@ -77,6 +77,17 @@
       "sha256": "1d0a61ce2b0e2b562cc8c3c5a9861cc569d2d15124d50b2cf64c18185f89b02d",
       "icon": "icons/aures-eyes.png?v=2",
       "description": ""
+    },
+    {
+      "id": "autokit",
+      "name": "AutoKit",
+      "packageName": "cn.manstep.phonemirrorBox",
+      "versionName": "2025.03.19",
+      "versionCode": 2112232222,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/autokit-2025.03.19.apk",
+      "sha256": "274ba98782f01ae81e3897bd3a17ce02e51013d81e85b1b53f6f869f6a8d3236",
+      "icon": null,
+      "description": "Companion app for CarPlay / Android Auto adapters."
     }
   ]
 }
