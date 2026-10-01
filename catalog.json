@@ -1,16 +1,27 @@
 {
-  "name": "Adrenaline Diag",
-  "apps": [
-    {
-      "id": "adrenaline-diag",
-      "name": "Adrenaline Diag",
-      "packageName": "com.adrenaline.diag",
-      "versionName": "1.0.2",
-      "versionCode": 3,
-      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/v1.0.2/AdrenalineDiag.apk",
-      "sha256": "f483c04b0669bef7e27cb300e15f726af2913b43a55c6f1910c9dd9303dfe69f",
-      "icon": "icons/adrenaline-diag.png?v=2",
-      "description": "The Adrenaline Diag store itself. Updates appear here automatically."
-    }
-  ]
+    "name":  "Adrenaline Diag",
+    "apps":  [
+                 {
+                     "id":  "adrenaline-diag",
+                     "name":  "Adrenaline Diag",
+                     "packageName":  "com.adrenaline.diag",
+                     "versionName":  "1.0.2",
+                     "versionCode":  3,
+                     "apkUrl":  "https://github.com/adrenaline-code/adrenaline-store/releases/download/v1.0.2/AdrenalineDiag.apk",
+                     "sha256":  "f483c04b0669bef7e27cb300e15f726af2913b43a55c6f1910c9dd9303dfe69f",
+                     "icon":  "icons/adrenaline-diag.png?v=2",
+                     "description":  "The Adrenaline Diag store itself. Updates appear here automatically."
+                 },
+                 {
+                     "id":  "quran",
+                     "name":  "Quran",
+                     "packageName":  "com.quran.labs.androidquran",
+                     "versionName":  "3.6.1",
+                     "versionCode":  3610,
+                     "apkUrl":  "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/quran-3.6.1.apk",
+                     "sha256":  "bd12cfff2b0dbd2713c373b304f279e93e17b5ff951bda3abe09cf5b57342935",
+                     "icon":  "icons/quran.png?v=3610",
+                     "description":  "Quran for Android - read and listen to the Holy Quran. Open source."
+                 }
+             ]
 }
