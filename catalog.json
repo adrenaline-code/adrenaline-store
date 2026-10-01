@@ -44,6 +44,17 @@
       "sha256": "26cec8ad372ae95d24bc53796c7d01299da5116f98e98ac701349389a85b949f",
       "icon": "icons/organic-maps.png?v=24070803",
       "description": "Offline maps and navigation, based on OpenStreetMap. Open source."
+    },
+    {
+      "id": "firefox",
+      "name": "Firefox",
+      "packageName": "org.mozilla.firefox",
+      "versionName": "153.0",
+      "versionCode": 2016172920,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/firefox-153.0.apk",
+      "sha256": "d37029172f876997fed00145044165df6e7f7290e6e735487fcd0c1309a5e524",
+      "icon": "icons/firefox.webp?v=2016172920",
+      "description": "Fast, private web browser by Mozilla. Open source."
     }
   ]
 }
