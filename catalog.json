@@ -88,6 +88,17 @@
       "sha256": "274ba98782f01ae81e3897bd3a17ce02e51013d81e85b1b53f6f869f6a8d3236",
       "icon": null,
       "description": "Companion app for CarPlay / Android Auto adapters."
+    },
+    {
+      "id": "ayah",
+      "name": "Ayah",
+      "packageName": "com.ayah",
+      "versionName": "5.3.7",
+      "versionCode": 5370,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/ayah-5.3.7.apk",
+      "sha256": "fc8b763b15524062d10b052e99f6e1212a8273fbcfa9957912934bf406442317",
+      "icon": "icons/ayah.png?v=5370",
+      "description": ""
     }
   ]
 }
