@@ -55,6 +55,17 @@
       "sha256": "d37029172f876997fed00145044165df6e7f7290e6e735487fcd0c1309a5e524",
       "icon": "icons/firefox.webp?v=2016172920",
       "description": "Fast, private web browser by Mozilla. Open source."
+    },
+    {
+      "id": "flyme-installer",
+      "name": "Flyme Auto APK Installer",
+      "packageName": "com.flymeauto.apkinstaller",
+      "versionName": "1.8",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/flyme-installer-1.8.apk",
+      "sha256": "d244996dacb177227f93a9d6e4bbde14bbd733e3daea487b20a6a93672f50469",
+      "icon": null,
+      "description": "Installs APK files on Flyme Auto head units. Needed by this store to install apps."
     }
   ]
 }
