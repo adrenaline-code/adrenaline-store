@@ -33,6 +33,17 @@
                      "sha256":  "67df2277b88af07df21bad9bb512c510dbd898dbed43ad786dba9c4da3b8e114",
                      "icon":  "icons/microg.webp?v=255034001",
                      "description":  "Open-source replacement for Google services (microG)."
+                 },
+                 {
+                     "id":  "organic-maps",
+                     "name":  "Organic Maps",
+                     "packageName":  "app.organicmaps",
+                     "versionName":  "2024.07.08-3",
+                     "versionCode":  24070803,
+                     "apkUrl":  "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/organic-maps-2024.07.08-3.apk",
+                     "sha256":  "26cec8ad372ae95d24bc53796c7d01299da5116f98e98ac701349389a85b949f",
+                     "icon":  "icons/organic-maps.png?v=24070803",
+                     "description":  "Offline maps and navigation, based on OpenStreetMap. Open source."
                  }
              ]
 }
