@@ -110,6 +110,17 @@
       "sha256": "3db828807212b380cc243fe4c49c56446cfe3d2ca8eefa88b37a31d2c1dccb2f",
       "icon": "icons/drivemode.webp?v=1",
       "description": "By naoufel203 (Telegram)."
+    },
+    {
+      "id": "file-manager-plus",
+      "name": "File Manager +",
+      "packageName": "com.alphainventor.filemanager",
+      "versionName": "3.6.3",
+      "versionCode": 2103063,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/file-manager-plus-3.6.3.apk",
+      "sha256": "3b5ab6c5a9467988ae7377934aeeae4df8d9d82fdee2c8f13d5d22ac8f0e2b28",
+      "icon": "icons/file-manager-plus.png?v=2103063",
+      "description": ""
     }
   ]
 }
