@@ -145,17 +145,6 @@
       "description": ""
     },
     {
-      "id": "sunray-toolkit",
-      "name": "Sunray Toolkit",
-      "packageName": "com.dmkcv.sunray",
-      "versionName": "1.2",
-      "versionCode": 107,
-      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/sunray-toolkit-1.2.apk",
-      "sha256": "a6f1f93d7701adafe6a8f483aaf3e95115957674225201e340a0f00e4998250b",
-      "icon": "icons/sunray-toolkit.png?v=107",
-      "description": ""
-    },
-    {
       "id": "vradio",
       "name": "VRadio",
       "packageName": "com.ilv.vradio",
@@ -187,6 +176,17 @@
       "sha256": "68a1c48c1607373aaa8f486f63ccfe7d9fb36798d86e3939b9542e49dda9f2a5",
       "icon": "icons/headunit-revived.png?v=114",
       "description": "Android Auto receiver for head units. Open source."
+    },
+    {
+      "id": "sunray-toolkit",
+      "name": "Sunray Toolkit",
+      "packageName": "com.dmkcv.sunray",
+      "versionName": "1.4.1",
+      "versionCode": 120,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/sunray-toolkit-1.4.1.apk",
+      "sha256": "e12de0df15ff9ba636bde1cd7a4fcaf124c97c5b06d9f85854707fbd91c9c8db",
+      "icon": "icons/sunray-toolkit.png?v=120",
+      "description": ""
     }
   ]
 }
