@@ -176,6 +176,17 @@
       "sha256": "66a20b4eb252536fdf9320ccd63e6e3fe24bf10a2c421ec66a51292d84b6d512",
       "icon": "icons/weather.webp?v=26012715",
       "description": "Weather widget by Dmity."
+    },
+    {
+      "id": "headunit-revived",
+      "name": "Headunit Revived",
+      "packageName": "com.andrerinas.headunitrevived",
+      "versionName": "3.5.0-beta1",
+      "versionCode": 114,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/headunit-revived-3.5.0-beta1.apk",
+      "sha256": "68a1c48c1607373aaa8f486f63ccfe7d9fb36798d86e3939b9542e49dda9f2a5",
+      "icon": "icons/headunit-revived.png?v=114",
+      "description": "Android Auto receiver for head units. Open source."
     }
   ]
 }
