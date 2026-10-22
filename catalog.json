@@ -198,6 +198,17 @@
       "sha256": "62b31f79db32bc7c85013ae830460b697a5952fad571ed0030b97341dde0b2e3",
       "icon": "icons/diplay.webp?v=33",
       "description": ""
+    },
+    {
+      "id": "geardisplay",
+      "name": "Gear Display",
+      "packageName": "com.Chouaib.GearDisplay",
+      "versionName": "3.7",
+      "versionCode": 28,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/geardisplay-3.7.apk",
+      "sha256": "522340b809b34f5ce2aae4e5a4302acc1bf92994e55b5920f59026d4efd80d72",
+      "icon": "icons/geardisplay.png?v=28",
+      "description": "Shows the current gear on the head unit display."
     }
   ]
 }
