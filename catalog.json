@@ -209,6 +209,17 @@
       "sha256": "522340b809b34f5ce2aae4e5a4302acc1bf92994e55b5920f59026d4efd80d72",
       "icon": "icons/geardisplay.png?v=28",
       "description": "Shows the current gear on the head unit display."
+    },
+    {
+      "id": "morphe-youtube",
+      "name": "YouTube (Morphe)",
+      "packageName": "app.morphe.android.youtube",
+      "versionName": "21.07.243",
+      "versionCode": 1561055560,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/morphe-youtube-21.07.243.apk",
+      "sha256": "bd4423a43358eb323d4121fd5081688564ecb827766feed088c22035a8e6cd82",
+      "icon": "icons/morphe-youtube.png?v=1561055560",
+      "description": "Patched YouTube with ad blocking and background play. Requires microG Services."
     }
   ]
 }
