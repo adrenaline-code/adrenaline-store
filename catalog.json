@@ -220,6 +220,15 @@
       "sha256": "bd4423a43358eb323d4121fd5081688564ecb827766feed088c22035a8e6cd82",
       "icon": "icons/morphe-youtube.png?v=1561055560",
       "description": "Patched YouTube with ad blocking and background play. Requires microG Services."
+    },
+    {
+      "id": "headunit-reloaded",
+      "name": "Headunit Reloaded",
+      "packageName": "gb.xxy.hr",
+      "versionName": "7.2.3",
+      "link": "https://play.google.com/store/apps/details?id=gb.xxy.hr",
+      "icon": "icons/headunit-reloaded.png?v=723",
+      "description": "Android Auto receiver for the head unit: connect your phone and use Android Auto on the screen. Paid app, opens Google Play."
     }
   ]
 }
