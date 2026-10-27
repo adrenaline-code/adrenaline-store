@@ -226,9 +226,11 @@
       "name": "Headunit Reloaded",
       "packageName": "gb.xxy.hr",
       "versionName": "7.2.3",
-      "link": "https://play.google.com/store/apps/details?id=gb.xxy.hr",
+      "versionCode": 723,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/headunit-reloaded-7.2.3.apk",
+      "sha256": "9d41863eeed05f48b9ebae25cd3dc48e257665054ede2e7a7ea72891a3b9cbc0",
       "icon": "icons/headunit-reloaded.png?v=723",
-      "description": "Android Auto receiver for the head unit: connect your phone and use Android Auto on the screen. Paid app, opens Google Play."
+      "description": "Android Auto receiver for the head unit."
     }
   ]
 }
