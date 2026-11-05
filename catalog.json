@@ -231,6 +231,17 @@
       "sha256": "9d41863eeed05f48b9ebae25cd3dc48e257665054ede2e7a7ea72891a3b9cbc0",
       "icon": "icons/headunit-reloaded.png?v=723",
       "description": "Android Auto receiver for the head unit."
+    },
+    {
+      "id": "coolray-button",
+      "name": "Bouton Coolray",
+      "packageName": "fr.coolray.button",
+      "versionName": "0.15-test",
+      "versionCode": 15,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/coolray-button-0.15-test.apk",
+      "sha256": "44b67f40a6ec51a90911b02610d631e0907033f030f92992d779be5a4d11507e",
+      "icon": "icons/coolray-button.png?v=15",
+      "description": "Steering wheel button app for the Geely Coolray."
     }
   ]
 }
