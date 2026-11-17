@@ -242,6 +242,17 @@
       "sha256": "44b67f40a6ec51a90911b02610d631e0907033f030f92992d779be5a4d11507e",
       "icon": "icons/coolray-button.png?v=15",
       "description": "Steering wheel button app for the Geely Coolray."
+    },
+    {
+      "id": "coolray-wallpaper",
+      "name": "Wallpaper by Adrenaline Diag",
+      "packageName": "com.adrenalinediag.wallpaper",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/coolray-wallpaper-1.0.apk",
+      "sha256": "21d04e53c26496703eefdd1cbc810110dbf112c55cdf464ba842638945205732",
+      "icon": "icons/coolray-wallpaper.png?v=1",
+      "description": "Fonds d'écran 3D animés de la Coolray, créé par Adrenaline Diag."
     }
   ]
 }
