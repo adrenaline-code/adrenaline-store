@@ -253,6 +253,17 @@
       "sha256": "21d04e53c26496703eefdd1cbc810110dbf112c55cdf464ba842638945205732",
       "icon": "icons/coolray-wallpaper.png?v=1",
       "description": "Fonds d'écran 3D animés de la Coolray, créé par Adrenaline Diag."
+    },
+    {
+      "id": "cluster-dashboard",
+      "name": "Cluster Dashboard",
+      "packageName": "com.faresautodiag.cluster",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/adrenaline-code/adrenaline-store/releases/download/apps/cluster-dashboard-1.0.apk",
+      "sha256": "5f89822e9e51d282a30e829d0dab6cf24e4d3fbc26880ab17baa55dbe64ef250",
+      "icon": "icons/cluster-dashboard.png?v=1",
+      "description": "Instrument cluster themes (Eco, Sport, Comfort...) for the Coolray dashboard."
     }
   ]
 }
